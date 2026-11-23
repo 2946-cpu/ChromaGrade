@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+opencv-python-headless
+matplotlib
+seaborn
+tqdm
+joblib
+Pillow
+
+# Deep learning
+torch
+torchvision
+timm==1.0.9
+ultralytics          # YOLO26 needs a recent release (>= 8.4)
+
+# Explainability
+grad-cam==1.5.4
+shap
+
+# Data download helpers
+gdown
+
+# Notebooks
+jupyterlab
+ipython

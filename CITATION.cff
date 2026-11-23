@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ChromaGrade: Explainable Deep Learning for Three-Level Anemia Severity Grading"
+authors:
+  - family-names: Afzal
+    given-names: Ayesha
+    affiliation: "NUST School of Interdisciplinary Engineering & Sciences (SINES)"
+year: 2026
+license: MIT
+repository-code: "https://github.com/<your-username>/ChromaGrade"
+keywords:
+  - anemia
+  - hypochromia
+  - blood smear
+  - multiple instance learning
+  - ConvNeXt
+  - YOLO26
+  - explainable AI
